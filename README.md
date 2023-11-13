@@ -5,14 +5,18 @@
 (Keybinds)
 
 Z - killAura
+
 X - crystalAura
+
 C - OptiFine Zoom
+
 V - Light
+
 G - AutoSprint
 
 Also has Discord RPC
 
-#WIP
+# WIP
 
 - Main Menu redisign
 - ClickGUI
